@@ -10,3 +10,7 @@ I'd like to prepare a modular system that speeds up the design process of a hous
 * others might want to participate in creating it.
 
 So, welcome to the place where you get both!
+
+## Links
+
+This project is available at Thingiverse: https://www.thingiverse.com/thing:4948343
