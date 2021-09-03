@@ -1,6 +1,8 @@
 # Cuboit
 A 3d printable modular housing for IoT devices
 
+![Example](/pictures/example1.jpg)
+
 ## Motivation
 
 I like to create ESP8266 based IoT devices. Owning a 3d printer, any such device project should be finished with a decent 3d printed housing for the device. But reality proves that such kind of finish often lies within the final 20% of a project that never get done.
